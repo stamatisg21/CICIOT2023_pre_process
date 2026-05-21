@@ -4,6 +4,12 @@ A preprocessing pipeline for the CICIOT2023 cybersecurity dataset.
 
 This repository loads raw train/test/validation CSV files, maps detailed attack labels into broader categories, balances the training set, scales numeric features, and saves cleaned datasets along with preprocessing artifacts.
 
+You can find the dataset here:
+
+```bash
+https://www.kaggle.com/datasets/himadri07/ciciot2023/data
+```
+
 ## Project structure
 
 - `main.py` - data preparation and preprocessing pipeline
